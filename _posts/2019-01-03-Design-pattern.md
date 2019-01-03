@@ -2,7 +2,7 @@
 layout: post
 category: 프로그래밍
 tag: 디자인 패턴
-title: Unity로 배우는 디자인 패턴, 0.디자인 패턴이란?
+title: Unity로 배우는 디자인 패턴 0.디자인 패턴이란?
 ---
 
 들어가기에 앞서
