@@ -1,6 +1,6 @@
 # Site Info
 title: Adohi's Blog
-tagline: 'A Jekyll theme based on Lanyon'
+tagline: '아도히의 게임 제작 블로그'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: http://adohi.github.io
@@ -24,17 +24,17 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  name: 아도히
+  description: 대한민국 <strong>인디 게임 개발자</strong>, ADO STUDIO 대장.
+  gravatar: c47c22d45168a2bed33be28710e06077 # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/codinfox
+    linkedin:  
+    github:    
     # facebook:  <hide>
-    twitter:   https://twitter.com/Li_Zhihao
-    weibo:     http://weibo.com/41173780
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
-
+    twitter:   
+    weibo:     
+    email:     adohi0824@gmail.com
+    
 # Navigation (2nd level links supported)
 nav:
   Home:           
