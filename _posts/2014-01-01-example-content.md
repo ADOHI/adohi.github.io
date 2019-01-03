@@ -1,5 +1,6 @@
 ---
 layout: post
+category: asd
 title: Example content
 ---
 
