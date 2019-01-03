@@ -26,8 +26,8 @@ version: 1.0.0
 author:
   name: 아도히
   description: |
-    '대한민국 <strong>인디 게임 개발자</strong>,'
-    'ADO STUDIO 대장.'
+    대한민국 <strong>인디 게임 개발자</strong>,
+    ADO STUDIO 대장.
   gravatar: c47c22d45168a2bed33be28710e06077 # md5 hash of your email address
   contact:
     linkedin:  
